@@ -1,4 +1,0 @@
-OptionInfo.lua	savedata/
-itemInfo.lua	System/
-VirtuosoRO.exe	
-patch.grf		target.grf
