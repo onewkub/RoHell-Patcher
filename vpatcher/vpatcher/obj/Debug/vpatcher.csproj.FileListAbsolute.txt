@@ -11,6 +11,7 @@ C:\Users\Ivan\source\repos\vpatcher\vpatcher\obj\Debug\vpatcher.pdb
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\bin\Debug\vpatcher.exe.config
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\bin\Debug\vpatcher.exe
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\bin\Debug\vpatcher.pdb
+D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\obj\Debug\vpatcher.csprojAssemblyReference.cache
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\obj\Debug\vpatcher.Patcher.resources
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\obj\Debug\vpatcher.Properties.Resources.resources
 D:\RagnarokPrivateServer\tools\vpatcher\vpatcher\vpatcher\obj\Debug\vpatcher.csproj.GenerateResource.cache

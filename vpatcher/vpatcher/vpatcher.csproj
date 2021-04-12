@@ -71,6 +71,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -89,6 +90,7 @@
     <None Include="Resources\%24this.BackgroundImage.bmp" />
     <None Include="Resources\%24this.BackgroundImage_2.bmp" />
     <None Include="Resources\%24this.BackgroundImage.jpg" />
+    <Content Include="ragnarok.ico" />
     <Content Include="vlaunchericon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
