@@ -10,7 +10,7 @@ using System.Windows.Forms;
 namespace vpatcher {
     public partial class Patcher : Form {
         // CONFIGURATION
-        const string HOST = "35.240.217.125";
+        const string HOST = "35.240.156.20";
         const int PORT = 7447;
         const string PROGRAM = "RagHell.exe";
         const string MERGER = "rsumerge.exe";
